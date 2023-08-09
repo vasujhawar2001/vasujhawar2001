@@ -11,7 +11,7 @@ I completed my Bachelors in Computer Science Engineering from SRM, Chennai. I ha
 
 * 😄 Pronouns: he/him
 * 🌍  Remote(worldwide)
-* 🖥️  See my portfolio at [vasujhawar.dev](http://vasujhawar.com)
+* 🖥️  See my portfolio at [vasujhawar.dev](http://vasujhawar.com) Ded currently :(
 * 🧠  I'm learning NextJS and Devops Practices
 * 🤝  I'm open to collaborating on MERN stack projects
 * ⚡  I'm a fitness freak, goal to get under 10% Body Fat. need abs :P
