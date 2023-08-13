@@ -47,6 +47,9 @@ I completed my Bachelors in Computer Science Engineering from SRM, Chennai. I ha
 
 <p align="left"> <a href="https://www.github.com/vasujhawar2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  &nbsp; <a href="https://www.linkedin.com/in/vasu-jhawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  &nbsp; <a href="https://www.twitter.com/JhawarVasu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+![GitHub Views](https://komarev.com/ghpvc/?username=vasujhawar2001)
+
+
 ### <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/vasujhawar2001"><img src="https://github-readme-stats.vercel.app/api?username=vasujhawar2001&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="vasujhawar2001's GitHub stats" /></a>
