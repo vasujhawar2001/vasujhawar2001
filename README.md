@@ -1,7 +1,7 @@
 Hi 👋 My name is Vasu Jhawar
 ============================
 
-A Software Engineer
+A Software Engineer   &nbsp; ![GitHub Views](https://komarev.com/ghpvc/?username=vasujhawar2001)
 -------------------
 
 ######  coding belaboured my brain cells. 
@@ -47,7 +47,9 @@ I completed my Bachelors in Computer Science Engineering from SRM, Chennai. I ha
 
 <p align="left"> <a href="https://www.github.com/vasujhawar2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  &nbsp; <a href="https://www.linkedin.com/in/vasu-jhawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  &nbsp; <a href="https://www.twitter.com/JhawarVasu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=vasujhawar2001)
+<br>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vasujhawar2001?theme=light&font=Open%20Sans&ext=heatmap)](https://leetcode.com/vasujhawar2001/)
 
 
 ### <b>My GitHub Stats</b>
