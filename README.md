@@ -16,8 +16,9 @@ I completed my Bachelors in Computer Science Engineering from SRM, Chennai. I ha
 * 🤝  I'm open to collaborating on MERN stack projects
 * ⚡  I'm a fitness freak, goal to get under 10% Body Fat. need abs :P
 
-### Skills
+<br>
 
+## Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -43,21 +44,29 @@ I completed my Bachelors in Computer Science Engineering from SRM, Chennai. I ha
 </p>
 
 
-### Socials
+## Socials
 
-<p align="left"> <a href="https://www.github.com/vasujhawar2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  &nbsp; <a href="https://www.linkedin.com/in/vasu-jhawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  &nbsp; <a href="https://www.twitter.com/JhawarVasu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<div style="display: flex; flex-direction: row; justify-content: center;"> 
+<a href="https://www.github.com/vasujhawar2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  
+&nbsp; 
+<a href="https://www.linkedin.com/in/vasu-jhawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
+&nbsp; 
+<a href="https://www.twitter.com/JhawarVasu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</div>
 
 <br>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vasujhawar2001?theme=light&font=Open%20Sans&ext=heatmap)](https://leetcode.com/vasujhawar2001/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vasujhawar2001?theme=light&font=Open%20Sans&ext=heatmap&width=500&height=250&border=2&radius=20)](https://leetcode.com/vasujhawar2001/)
 
 
-### <b>My GitHub Stats</b>
+## GitHub Stats
 
-<a href="http://www.github.com/vasujhawar2001"><img src="https://github-readme-stats.vercel.app/api?username=vasujhawar2001&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="vasujhawar2001's GitHub stats" /></a>
-
-<a href="http://www.github.com/vasujhawar2001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vasujhawar2001&stroke=000000&background=ffffff&ring=facc15&fire=facc15&currStreakNum=000000&currStreakLabel=facc15&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasujhawar2001&layout=compact&theme=vision-friendly-light)](https://github.com/vasujhawar2001/github-readme-stats)
-
+<div style="display: flex; flex-direction: row;">
+    <a href="http://www.github.com/vasujhawar2001">
+      <img src="https://github-readme-stats.vercel.app/api?username=vasujhawar2001&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="vasujhawar2001's GitHub stats" />
+    </a>
+    <a href="https://github.com/vasujhawar2001/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasujhawar2001&layout=compact&theme=vision-friendly-light" alt="Top Languages" />
+    </a>
+</div>
 
