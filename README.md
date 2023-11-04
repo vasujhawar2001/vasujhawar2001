@@ -7,7 +7,7 @@ A Software Engineer   &nbsp; ![GitHub Views](https://komarev.com/ghpvc/?username
 ######  coding belaboured my brain cells. 
 I am full-time tech lover, I love to build stuff from school days. I have fun solving mathematical equations and problems. My journey started the day when I took Information Practices and got a chance to be the part of tech community of the school. I got amazed by those people and their skillsets (meh, I thought they were hackers, I didn't knew they were just working on mere terminals).
 
-I completed my Bachelors in Computer Science Engineering from SRM, Chennai. I have been self-employed and worked as Product-Manager, Web Developer, SEO and local GMB profile ranking, Digital Marketing for Bahurani Sarees, Bhopal. I have also worked as Teaching Assistant @ WemakeDevs. I have expertise in Googling, and I rapidly evolve myself to new languages and skills. I have good hands on Java, ES6. I love getting my hands dirty on new technologies and using them. Heads on and positive about Web3 and AI, ChatGPT will not replace us, but some other better working tool will. :<(
+I completed my Bachelors in Computer Science Engineering from SRM, Chennai. I have expertise in Googling, and I rapidly evolve myself to new languages and skills. I have good hands on Java, ES6. I love getting my hands dirty on new technologies and using them. Heads on and positive about Web3 and AI, ChatGPT will not replace us, but some other better working tool will. :<(
 
 * 😄 Pronouns: he/him
 * 🌍  Remote(worldwide)
